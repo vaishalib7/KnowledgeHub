@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<courses xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="courses.xsd">
+
+    <course>
+        <title>Web Development</title>
+        <description>Learn HTML, CSS, JavaScript</description>
+        <topics>
+            <topic>HTML</topic>
+            <topic>CSS</topic>
+            <topic>JavaScript</topic>
+        </topics>
+        <duration>3 Months</duration>
+        <price>2000</price>
+    </course>
+
+    <course>
+        <title>Python</title>
+        <description>Learn Python programming</description>
+        <topics>
+            <topic>Basics</topic>
+            <topic>OOP</topic>
+        </topics>
+        <duration>2 Months</duration>
+        <price>1500</price>
+    </course>
+
+    <course>
+        <title>Java</title>
+        <description>Core Java concepts</description>
+        <topics>
+            <topic>OOP</topic>
+            <topic>Collections</topic>
+        </topics>
+        <duration>2.5 Months</duration>
+        <price>1800</price>
+    </course>
+
+    <course>
+        <title>Data Science</title>
+        <description>Data analysis &amp; visualization</description>
+        <topics>
+            <topic>Pandas</topic>
+            <topic>Visualization</topic>
+        </topics>
+        <duration>4 Months</duration>
+        <price>3000</price>
+    </course>
+
+    <course>
+        <title>Machine Learning</title>
+        <description>Build ML models</description>
+        <topics>
+            <topic>Supervised</topic>
+            <topic>Unsupervised</topic>
+        </topics>
+        <duration>4 Months</duration>
+        <price>3500</price>
+    </course>
+
+    <course>
+        <title>UI/UX Design</title>
+        <description>Design modern interfaces</description>
+        <topics>
+            <topic>Figma</topic>
+            <topic>Prototyping</topic>
+        </topics>
+        <duration>1.5 Months</duration>
+        <price>1200</price>
+    </course>
+
+    <course>
+        <title>C++ Programming</title>
+        <description>Master object-oriented programming using C++</description>
+        <instructor>Anil</instructor>
+        <topics>
+            <topic>OOP Concepts</topic>
+            <topic>Classes &amp; Objects</topic>
+            <topic>Inheritance</topic>
+            <topic>Projects</topic>
+        </topics>
+        <duration>2.5 Months</duration>
+        <price>1300</price>
+    </course>
+
+    <course>
+        <title>Cyber Security</title>
+        <description>Learn system and network protection</description>
+        <instructor>Neha</instructor>
+        <topics>
+            <topic>Network Security</topic>
+            <topic>Ethical Hacking</topic>
+            <topic>Encryption</topic>
+            <topic>Security Tools</topic>
+        </topics>
+        <duration>3 Months</duration>
+        <price>2500</price>
+    </course>
+
+    <course>
+        <title>Cloud Computing</title>
+        <description>Learn AWS, Azure, Google Cloud</description>
+        <instructor>Kiran</instructor>
+        <topics>
+            <topic>Cloud Basics</topic>
+            <topic>AWS</topic>
+            <topic>Deployment</topic>
+            <topic>Projects</topic>
+        </topics>
+        <duration>3 Months</duration>
+        <price>2800</price>
+    </course>
+
+    <course>
+        <title>Artificial Intelligence</title>
+        <description>Learn intelligent systems</description>
+        <instructor>Sneha</instructor>
+        <topics>
+            <topic>AI Basics</topic>
+            <topic>Algorithms</topic>
+            <topic>Neural Networks</topic>
+            <topic>Projects</topic>
+        </topics>
+        <duration>4 Months</duration>
+        <price>3200</price>
+    </course>
+
+    <course>
+        <title>Operating Systems</title>
+        <description>Learn OS concepts</description>
+        <instructor>Arjun</instructor>
+        <topics>
+            <topic>Processes</topic>
+            <topic>Memory</topic>
+            <topic>Scheduling</topic>
+            <topic>File Systems</topic>
+        </topics>
+        <duration>2 Months</duration>
+        <price>1600</price>
+    </course>
+
+</courses>
